@@ -157,7 +157,7 @@ npm install axios
 3. 启动前端开发服务器：
 
 ```bash
-cd   cd .\frontend\
+cd .\frontend\
 npm run dev
 ```
 
